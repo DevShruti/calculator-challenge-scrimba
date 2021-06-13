@@ -1,3 +1,3 @@
 # calculator-challenge-scrimba
-###Javascript challenge
+### Javascript challenge
 #### A simple Javascript challenge
